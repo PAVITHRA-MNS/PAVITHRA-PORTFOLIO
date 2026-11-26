@@ -34,7 +34,7 @@ export const PROFILE_CONFIG: ProfileConfig = {
     'I build intelligent, secure and scalable AI systems — from multi-agent orchestration and RAG pipelines to enterprise-grade AI infrastructure.',
   resumePath: '/resume.pdf',
   portraitPath: '/assets/aistudio/Confident_Professional_Office_Portrait_f74a810d.png',
-  linkedinUrl: 'https://www.linkedin.com/in/pavithra-mns',
+  linkedinUrl: 'https://www.linkedin.com/in/pavithra-mns-398884258',
   githubUrl: 'https://github.com/pavithra-mns',
 };
 
