@@ -32,7 +32,7 @@ export const PROFILE_CONFIG: ProfileConfig = {
   availability: 'Open to AI Engineering Opportunities',
   positioningStatement:
     'I build intelligent, secure and scalable AI systems — from multi-agent orchestration and RAG pipelines to enterprise-grade AI infrastructure.',
-  resumePath: '/resume.pdf',
+  resumePath: '/Pavithra MNS Resume.pdf',
   portraitPath: '/assets/aistudio/Confident_Professional_Office_Portrait_f74a810d.png',
   linkedinUrl: 'https://www.linkedin.com/in/pavithra-mns-398884258',
   githubUrl: 'https://github.com/pavithra-mns',
